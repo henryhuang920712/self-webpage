@@ -1,0 +1,26 @@
+header nav img{
+    width: 160px;
+}
+
+header li{
+    margin: 0 10px;
+    font-size: 13px;
+    letter-spacing: 5px;
+    padding: 0 0 0 5px;
+    border-radius: 20px;
+    color: black;
+    transition: 0.3s;
+}
+
+header li:hover{
+    color: white;
+    background-color: orange;
+}
+
+header .fa {
+    color: black;
+}
+
+header .fa:hover {
+    transform: scale(1.1);
+  }
